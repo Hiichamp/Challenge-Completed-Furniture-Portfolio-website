@@ -17,7 +17,7 @@ function About() {
             With over 20 years of experience in wood working, I specialize in custom furniture, cabinetry, and home renovations. My journey began in Surat, and I have since worked in Tamil Nadu and Bangalore, building a reputation for exceptional craftsmanship. Now based in Delhi, I continue to impress clients with innovative designs and a commitment to quality. My work reflects a perfect blend of classic elegance and modern minimalism, tailored to meet each client's unique vision.
           </p>
           <h2 className='text-2xl font-bold mt-5 ml-5'>Contact</h2>
-          <p className='text-xl font-semibold ml-5'>Phone Number: 7571396570</p>
+          <p className='text-xl font-semibold ml-5'></p>
           <h2 className='text-xl font-bold mt-5 ml-5 '>Website Related Queries</h2>
           <p className='text-sm font-semibold  ml-5'>Email: himanshukumar13333@gmail.com</p>
         </div>
